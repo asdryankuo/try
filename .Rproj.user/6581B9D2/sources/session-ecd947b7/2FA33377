@@ -1,0 +1,26 @@
+{
+    "id": "2FA33377",
+    "path": "~/try/data-raw/people.R",
+    "project_path": "data-raw/people.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1687055923248.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "11,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1687057341,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1687057341,
+    "read_only": false,
+    "read_only_alternatives": []
+}
